@@ -8,3 +8,11 @@ This project is part of the material of the book
    David J. Barnes and Michael Kölling
 
 It is discussed in chapter 7.
+
+27)yes
+
+28) it states it a 0 
+
+29)its still the same , its jayt the start that changed
+
+30)
