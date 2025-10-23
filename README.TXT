@@ -15,4 +15,8 @@ It is discussed in chapter 7.
 
 29)its still the same , its jayt the start that changed
 
-30)
+31) it gives the no answer just blank space 
+
+32)i changed the array to an varaible ,because the left changes everytime we need to keep the old left to procced to the new one 
+
+33)
