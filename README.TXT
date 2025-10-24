@@ -19,4 +19,6 @@ It is discussed in chapter 7.
 
 32)i changed the array to an varaible ,because the left changes everytime we need to keep the old left to procced to the new one 
 
-33)
+35) there ar not infite answer , there are a limited amount of varaible and and to what they can began (1 or 0)
+
+36)
